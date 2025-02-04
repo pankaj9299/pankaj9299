@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate and detail-oriented developer wit
 
 ## 🚀 Skills
 
-- **Frontend Development**: ReactJS, Next.js, HTML, CSS, JavaScript
+- **Frontend Development**: ReactJS, Next.js, Tailwind, HTML, CSS, JavaScript
 - **Backend Development**: Node.js, PHP
 - **CMS Development**: Drupal, WordPress
 - **Full-Stack Development**: Building end-to-end web applications
