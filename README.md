@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Pankaj 👋
 
 Welcome to my GitHub profile! I'm a passionate and detail-oriented developer with expertise in building modern, scalable, and high-performance web applications. My skill set includes **React.JS**, **Next.JS**, **Node.JS**, **Drupal**, **PHP**, **HTML**, **CSS**, and **JavaScript**. I love solving complex problems and creating seamless user experiences.
 
