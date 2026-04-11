@@ -1,37 +1,34 @@
 # Hi, I'm Pankaj 👋
 
-Welcome to my GitHub profile! I'm a passionate and detail-oriented developer with expertise in building modern, scalable, and high-performance web applications. My skill set includes **React.JS**, **Next.JS**, **Node.JS**, **Drupal**, **PHP**, **HTML**, **CSS**, and **JavaScript**. I love solving complex problems and creating seamless user experiences.
+Senior Frontend Developer with 10 years of experience building modern, scalable, 
+and high-performance web applications. I specialize in React.js and Next.js ecosystems, 
+with a strong focus on component architecture, state management, and delivering 
+exceptional user experiences.
 
 ## 🚀 Skills
 
-- **Frontend Development**: ReactJS, Next.js, Tailwind, HTML, CSS, JavaScript
-- **Backend Development**: Node.js, PHP
-- **CMS Development**: Drupal, WordPress
-- **Full-Stack Development**: Building end-to-end web applications
-- **Responsive Design**: Crafting mobile-friendly and cross-browser compatible interfaces
-- **API Integration**: RESTful APIs, GraphQL
-- **Version Control**: Git, GitHub
+- **Frontend**: React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Redux Toolkit
+- **UI & Styling**: HTML5, CSS3, Responsive Design, Cross-browser Compatibility
+- **API Integration**: RESTful APIs, GraphQL, Axios
+- **Tools & Workflow**: Git, GitHub, Vite, Webpack, Figma
+- **Performance**: Core Web Vitals, Code Splitting, Lazy Loading
 
+## 🌱 Currently Exploring
 
-## 🌱 Currently Learning
-
-I'm always expanding my knowledge and exploring new technologies. Currently, I'm diving deeper into:
-
-- Advanced Next.js features (e.g., middleware, server components), NodeJS Frameworks.
-- Performance optimization techniques (Caching, CDN Handling)
-- DevOps and CI/CD pipelines
+- React 19 & Server Components
+- Next.js App Router & advanced performance optimization
+- Micro-frontend architecture
 
 ## 📫 Let's Connect
 
-I'm open to collaborations, freelance opportunities, and interesting projects. Feel free to reach out to me:
-
-- **Email**: [pankaj92999@gmail.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/pankaj9299/)
+- **Email**: [pankaj92999@gmail.com](mailto:pankaj92999@gmail.com)
+- **LinkedIn**: [linkedin.com/in/pankaj9299](https://www.linkedin.com/in/pankaj9299/)
 
 ## ⚡ Fun Fact
 
-When I'm not coding, I enjoy playing cricket, reading books, and watching podcasts & news. I believe in maintaining a healthy work-life balance to stay creative and productive.
+When I'm not coding, I enjoy playing cricket, reading, and staying up with the latest 
+in tech. I believe a healthy work-life balance keeps you sharp and creative.
 
 ---
 
-⭐️ Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to connect!
+⭐️ Feel free to explore my repositories and reach out for collaborations or opportunities!
