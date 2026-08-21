@@ -15,9 +15,10 @@ exceptional user experiences.
 
 ## 🌱 Currently Exploring
 
-- React 19 & Server Components
-- Next.js App Router & advanced performance optimization
+- Next.js advanced performance optimization
 - Micro-frontend architecture
+- Advanced System Design
+- CI/CD pipeline optimization
 
 ## 📫 Let's Connect
 
