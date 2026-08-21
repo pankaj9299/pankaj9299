@@ -8,6 +8,7 @@ exceptional user experiences.
 ## 🚀 Skills
 
 - **Frontend**: React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Redux Toolkit
+- **Backend**: NodeJS, Express.js, PostgreSQL
 - **UI & Styling**: HTML5, CSS3, Responsive Design, Cross-browser Compatibility
 - **API Integration**: RESTful APIs, GraphQL, Axios
 - **Tools & Workflow**: Git, GitHub, Vite, Webpack, Figma
