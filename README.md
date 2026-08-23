@@ -1,7 +1,7 @@
 # Hi, I'm Pankaj 👋
 
 Senior Frontend Developer with 10 years of experience building modern, scalable, 
-and high-performance web applications. I specialize in React.js and Next.js ecosystems, 
+and high-performance web applications. I specialize in React.js, Next.js and NodeJS ecosystems, 
 with a strong focus on component architecture, state management, and delivering 
 exceptional user experiences.
 
