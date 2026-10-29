@@ -27,7 +27,7 @@ end to end, and I care about performance, clean architecture, and great user exp
 ## 📫 Let's Connect
 
 - **Email**: [pankaj92999@gmail.com](mailto:pankaj92999@gmail.com)
-- **LinkedIn**: [linkedin.com/in/pankaj9299](https://www.linkedin.com/in/pankaj9299/)
+- **LinkedIn**: [linkedin.com/in/pankajkumar9299](https://www.linkedin.com/in/pankajkumar9299/)
 
 ## ⚡ Fun Fact
 
